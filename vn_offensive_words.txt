@@ -457,6 +457,7 @@ cmn
 cmnl
 ###############################
 # Tiên sư, and its variants
+tiên sư chúng mày
 tiên sư nhà mày
 tiên sư bố
 tổ sư
